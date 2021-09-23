@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+/*html{
+    overflow: hidden;
+}*/
+.row{
+    background-color: khaki;
+}
+
+.cont1{
+    width: 80%;
+    height: 500px;
+    
+    margin-left: 10%;
+    background-color:gray;
+}
+div img{
+    border: 2px solid white;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.text-con{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 35%;
+    bottom: 120px;
+}
+a{
+    float: right;
+    position: relative;
+    
+    margin-top: 20px;
+    margin-right: 120px;
+    color: white;
+    font-size: 20px;
+}
+.text2{
+    position: relative;
+    color: black;
+    font-size: 15px;
+}
+.text3{
+    position: relative;
+    margin-left: 20%;
+    color: white;
+    
+}
+.text4{
+    position: relative;
+    margin-left: 60%;
+    color: white;
+    bottom: 35px;
+} 
+.cont2{
+    width: 80%;
+    height: 500px;
+    position: relative;
+    top: 20px;
+    margin-left: 10%;
+
+}
+.table{
+    position: relative;
+    top: 20px;
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+}
+.text5{
+    position: relative;
+    top:10px;
+}
+.text6{
+    position: relative;
+    top: 40px;
+}
+li{
+    position: relative;
+    left: 20px;
+}
+.text7{
+    position: relative;
+    top: 60px;
+}
